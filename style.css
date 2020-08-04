@@ -667,7 +667,7 @@ a:hover, a:active {
 
 a.btn {
     padding: 16px 48px;
-    border: 2px solid #34d986;
+    border: 2px solid #ee780a;
     border-radius: 0;
     font-size: 13px;
     font-weight: bold;
@@ -680,7 +680,7 @@ a.btn {
 
 a.btn:hover {
     color: #fff;
-    background: #34d986;
+    background: #ee780a;
 }
 
 /*
@@ -983,7 +983,7 @@ a.btn:hover {
 .latest-news-events .featured-event-content .event-location .fa,
 .latest-news-events .featured-event-content .event-duration .fa {
     margin-right: 6px;
-    color: #34d986;
+    color: #ee780a;
 }
 
 .latest-news-events .featured-event-content .event-location,
@@ -1018,7 +1018,7 @@ a.btn:hover {
 
 .event-content .posted-date .fa {
     margin-right: 6px;
-    color: #34d986;
+    color: #ee780a;
 }
 
 .event-content .posted-date {
@@ -2672,7 +2672,7 @@ p.footer-copyright {
 }
 
 .footer-widgets ul li a:hover {
-    color: #34d986;
+    color: #ee780a;
 }
 
 .footer-widgets .follow-us .fa {
@@ -2739,5 +2739,5 @@ p.footer-copyright {
 }
 
 .footer-bar-nav ul li a:hover {
-    color: #34d986;
+    color: #ee780a;
 }
